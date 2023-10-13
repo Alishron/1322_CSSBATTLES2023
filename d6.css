@@ -1,0 +1,80 @@
+.center{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 25%;
+    height: 25%;
+    
+}
+.ring1{
+    width: 10%;
+    height: 10%;
+
+}
+.ring2{
+    width: 10%;
+    height: 10%;
+    margin-left:-30px;
+    margin-top: 20px;
+    
+}
+.ring3{
+    width: 10%;
+    height: 10%;
+    margin-left:-30px;
+    margin-top: 20px;
+    
+}
+.ring4{
+    width: 10%;
+    height: 10%;
+    margin-left:-30px;
+    margin-top: 20px;
+}
+.ring5{
+    width: 10%;
+    height: 10%;
+    margin-left:-30px;
+    margin-top: 20px;
+}
+.ring6{
+    width: 10%;
+    height: 10%;
+    margin-left:-30px;
+    margin-top: 20px;
+}
+.ring7{
+    width: 10%;
+    height: 10%;
+    margin-left:-30px;
+    margin-top: 20px;
+}
+.ring8{
+    width: 10%;
+    height: 10%;
+
+    margin-left:-30px;
+    margin-top: 20px;
+}
+.ring9{
+    width: 10%;
+    height: 10%;
+    margin-left:-30px;
+    margin-top: 20px;
+}
+.ring10{
+    width: 10%;
+    height: 10%;
+    margin-left:-30px;
+    margin-top: 20px;
+}
+.ring11{
+    width: 10%;
+    height: 10%;
+    margin-left:-30px;
+    margin-top: 20px;
+}
+.rings{
+    margin-left: 10%;
+
+}
