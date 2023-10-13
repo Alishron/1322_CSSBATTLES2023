@@ -1,0 +1,70 @@
+.bluebox{
+    background-color: #1f89b2;
+    color: #1f89b2;
+    width : 40em;
+    height:40em;
+    margin:auto;
+    border : 3px solid black;
+    position:relative;
+}
+
+.redcircle{
+    background-color: red;
+    color:red;
+    width : 40em;
+    height:40em;
+    border-radius: 20em;
+    border: 3px solid black;
+    margin: auto;
+}
+
+.yellowcircle{
+    background-color: yellow;
+    color:yellow;
+    border: 3px solid skyblue;
+    width:35em;
+    position: absolute;
+    top: 6%;
+    left: 7%;
+    height:35em;
+    border-radius: 25em;
+    margin: auto;   
+}
+
+.whitecircle{
+    background-color: white;
+    color:black;
+    border:3px solid rgb(14, 190, 14);
+    border-radius: 2.5em;
+    width:5em;
+    position: absolute;
+    top: 40%;
+    left: 40%;
+    height:5em;
+    margin:auto;
+}
+
+.chotayellow{
+    background-color : yellow;
+    color :yellow;
+    border: 3px solid blue;
+    border-radius:1.5em;
+    width:3em;
+    height:3em;
+    position: absolute;
+    top: 15%;
+    left: 16%;
+    margin:auto;
+}
+
+.rectangle{
+    background-color: white;
+    border-top: 3px solid blue;
+    border-bottom: 3px solid blue;
+    width : 3em;
+    height:1em;
+    position: absolute;
+    top: 25%;
+    margin : auto;
+
+}
